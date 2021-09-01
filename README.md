@@ -2,10 +2,10 @@
 
 You can easyly get 300k an hour
 
-Requires:
-a fishing pole
-a shovel
-a huntingrifle
+Requires:<br>
+a fishing pole<br>
+a shovel<br>
+a huntingrifle<br>
 
 
 
