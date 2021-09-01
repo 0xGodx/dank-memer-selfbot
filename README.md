@@ -1,3 +1,12 @@
+This is a selfbot to get money on the dank memer discord bot.
+
+Requires:
+a fishing pole
+a shovel
+a huntingrifle
+
+
+
 dont use on ur main
 
 
