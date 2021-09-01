@@ -1,4 +1,4 @@
-This is a selfbot to get money on the dank memer discord bot.
+<h1>This is a selfbot to get money on the dank memer discord bot.</h1>
 
 Requires:
 a fishing pole
