@@ -20,6 +20,4 @@ class dank():
 
                 requests.post(url, headers=headers, data={'content' : "pls hunt"}), time.sleep(5)
                 requests.post(url, headers=headers, data={'content' : "pls fish"}), time.sleep(5)
-                requests.post(url, headers=headers, data={'content' : "pls dig"})
-
-                time.sleep(n)
+                requests.post(url, headers=headers, data={'content' : "pls dig"}),  time.sleep(n)
