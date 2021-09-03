@@ -5,7 +5,7 @@ class dank():
     while True:
             randomlist = []
             for i in range(0,5):
-                    #   Random await speed
+                    #   Random sleep time
                 n = random.randint(40,60)
                 randomlist.append(n)
                 print(f"Delay is on {n}")
@@ -24,5 +24,5 @@ class dank():
                 time.sleep(5)
                 requests.post(url, headers=headers, data={"content" : "pls dig"})
 
-                    #   Await 
+                    #   sleep 
                 time.sleep(n)
